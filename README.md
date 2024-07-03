@@ -36,7 +36,11 @@ Type your question into the input box and click "Ask" to get a response from the
 
 Here is an example of the bot in action:
 
-![AI Bot Example](path/to/your/screenshot.png)
+   
+<div align="center">
+  <img width="512" src="demo.png">
+</div>
+
 
 In this example, the bot is asked, "Who is the president of Pakistan?" and it retrieves the correct answer using the integrated tools.
 
