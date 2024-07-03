@@ -44,5 +44,4 @@ Here is an example of the bot in action:
 
 In this example, the bot is asked, "Who is the president of Pakistan?" and it retrieves the correct answer using the integrated tools.
 
-## Project Structure
 
