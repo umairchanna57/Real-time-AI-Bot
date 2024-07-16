@@ -11,7 +11,7 @@ import huggingface_hub  # Ensure this is imported
 app = Flask(__name__)
 
 # Set up HuggingFace API key and model
-api_key = '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'
+api_key = 'Use_Your_API'
 llm = HuggingFaceEndpoint(
     huggingfacehub_api_token=api_key, 
     repo_id="mistralai/Mixtral-8x7B-Instruct-v0.1", 
